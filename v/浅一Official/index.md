@@ -1,0 +1,15 @@
+---
+mid: 220688902
+title: "浅一Official"
+pubDate: "2024-11-04T11:22:13.761Z"
+updatedDate: "2024-11-04T11:22:13.761Z"
+profile:
+  {
+    Nickname: ["浅一Official"],
+  }
+---
+
+关注[浅一Official](https://space.bilibili.com/220688902)谢谢喵~ 关注[浅一Official](https://space.bilibili.com/220688902)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/浅一Official/index.md)编辑本文

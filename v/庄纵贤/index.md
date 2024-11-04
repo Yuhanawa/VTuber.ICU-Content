@@ -1,0 +1,15 @@
+---
+mid: 3494376216988486
+title: "庄纵贤"
+pubDate: "2024-11-04T11:22:11.864Z"
+updatedDate: "2024-11-04T11:22:11.864Z"
+profile:
+  {
+    Nickname: ["庄纵贤"],
+  }
+---
+
+关注[庄纵贤](https://space.bilibili.com/3494376216988486)谢谢喵~ 关注[庄纵贤](https://space.bilibili.com/3494376216988486)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/庄纵贤/index.md)编辑本文

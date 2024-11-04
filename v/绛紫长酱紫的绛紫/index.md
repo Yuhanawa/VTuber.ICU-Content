@@ -1,0 +1,15 @@
+---
+mid: 470654959
+title: "绛紫长酱紫的绛紫"
+pubDate: "2024-11-04T11:22:15.594Z"
+updatedDate: "2024-11-04T11:22:15.594Z"
+profile:
+  {
+    Nickname: ["绛紫长酱紫的绛紫"],
+  }
+---
+
+关注[绛紫长酱紫的绛紫](https://space.bilibili.com/470654959)谢谢喵~ 关注[绛紫长酱紫的绛紫](https://space.bilibili.com/470654959)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/绛紫长酱紫的绛紫/index.md)编辑本文

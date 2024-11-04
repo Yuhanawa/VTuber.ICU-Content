@@ -1,0 +1,15 @@
+---
+mid: 3493112208951438
+title: "尤野uu"
+pubDate: "2024-11-04T11:22:11.578Z"
+updatedDate: "2024-11-04T11:22:11.578Z"
+profile:
+  {
+    Nickname: ["尤野uu"],
+  }
+---
+
+关注[尤野uu](https://space.bilibili.com/3493112208951438)谢谢喵~ 关注[尤野uu](https://space.bilibili.com/3493112208951438)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/尤野uu/index.md)编辑本文

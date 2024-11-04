@@ -1,0 +1,15 @@
+---
+mid: 1936358544
+title: "栗蝶Chyou"
+pubDate: "2024-11-04T11:22:13.099Z"
+updatedDate: "2024-11-04T11:22:13.099Z"
+profile:
+  {
+    Nickname: ["栗蝶Chyou"],
+  }
+---
+
+关注[栗蝶Chyou](https://space.bilibili.com/1936358544)谢谢喵~ 关注[栗蝶Chyou](https://space.bilibili.com/1936358544)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/栗蝶Chyou/index.md)编辑本文

@@ -1,0 +1,15 @@
+---
+mid: 2836600
+title: "実津瑠Mitsuru"
+pubDate: "2024-11-04T11:22:11.340Z"
+updatedDate: "2024-11-04T11:22:11.340Z"
+profile:
+  {
+    Nickname: ["実津瑠Mitsuru"],
+  }
+---
+
+关注[実津瑠Mitsuru](https://space.bilibili.com/2836600)谢谢喵~ 关注[実津瑠Mitsuru](https://space.bilibili.com/2836600)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/実津瑠Mitsuru/index.md)编辑本文

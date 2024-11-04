@@ -1,0 +1,15 @@
+---
+mid: 1198058576
+title: "桑小柔Roro"
+pubDate: "2024-11-04T11:22:13.226Z"
+updatedDate: "2024-11-04T11:22:13.226Z"
+profile:
+  {
+    Nickname: ["桑小柔Roro"],
+  }
+---
+
+关注[桑小柔Roro](https://space.bilibili.com/1198058576)谢谢喵~ 关注[桑小柔Roro](https://space.bilibili.com/1198058576)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/桑小柔Roro/index.md)编辑本文

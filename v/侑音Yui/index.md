@@ -1,0 +1,15 @@
+---
+mid: 3494356619103143
+title: "侑音Yui"
+pubDate: "2024-11-04T11:22:09.940Z"
+updatedDate: "2024-11-04T11:22:09.940Z"
+profile:
+  {
+    Nickname: ["侑音Yui"],
+  }
+---
+
+关注[侑音Yui](https://space.bilibili.com/3494356619103143)谢谢喵~ 关注[侑音Yui](https://space.bilibili.com/3494356619103143)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/侑音Yui/index.md)编辑本文

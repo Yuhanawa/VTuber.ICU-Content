@@ -1,0 +1,15 @@
+---
+mid: 1938979031
+title: "燐・珈尔特Official"
+pubDate: "2024-11-04T11:22:13.977Z"
+updatedDate: "2024-11-04T11:22:13.977Z"
+profile:
+  {
+    Nickname: ["燐・珈尔特Official"],
+  }
+---
+
+关注[燐・珈尔特Official](https://space.bilibili.com/1938979031)谢谢喵~ 关注[燐・珈尔特Official](https://space.bilibili.com/1938979031)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/燐・珈尔特Official/index.md)编辑本文

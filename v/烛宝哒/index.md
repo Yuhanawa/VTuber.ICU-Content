@@ -1,0 +1,15 @@
+---
+mid: 1132553462
+title: "烛宝哒"
+pubDate: "2024-11-04T11:22:13.941Z"
+updatedDate: "2024-11-04T11:22:13.941Z"
+profile:
+  {
+    Nickname: ["烛宝哒"],
+  }
+---
+
+关注[烛宝哒](https://space.bilibili.com/1132553462)谢谢喵~ 关注[烛宝哒](https://space.bilibili.com/1132553462)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/烛宝哒/index.md)编辑本文

@@ -1,0 +1,15 @@
+---
+mid: 3494373908023795
+title: "奶fufu吖-毕业倒计时"
+pubDate: "2024-11-04T11:22:11.175Z"
+updatedDate: "2024-11-04T11:22:11.175Z"
+profile:
+  {
+    Nickname: ["奶fufu吖-毕业倒计时"],
+  }
+---
+
+关注[奶fufu吖-毕业倒计时](https://space.bilibili.com/3494373908023795)谢谢喵~ 关注[奶fufu吖-毕业倒计时](https://space.bilibili.com/3494373908023795)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/奶fufu吖-毕业倒计时/index.md)编辑本文

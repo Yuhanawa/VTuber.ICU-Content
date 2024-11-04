@@ -22,7 +22,7 @@ profile:
     Tags: ["X"],
     DebutDate: [{ Platform: "X", Date: 2002 }],
     Retirement: { URL: "https://x.com/elonmusk", Date: 2099 },
-    Medias: [{ Platform: "X", URL: "https://x.com/elonmusk" }],
+    Medias: ["https://x.com/elonmusk" ],
     ExternalLinks: [{ Remark: "X", URL: "https://x.com" }],
     Description: "埃隆·里夫·马斯克（英语：Elon Reeve Musk，/ˈiːlɒn/ EE-lon；1971年6月28日—），FRS，曾取汉名马谊郎于台湾作为公司登记使用[4]，是一名企业家、商业大亨、英国皇家学会会士[2]、美国工程院院士[5]。他是SpaceX的创始人、董事长、首席执行官、首席工程师，特斯拉投资人、首席执行官、产品设计师、前董事长，无聊公司创始人，Neuralink、OpenAI联合创始人，同时也是X公司的首席技术官、董事长。2022年马斯克以2190亿美元财富成为世界首富。[6] ",
     Highlights: [{ URL: "https://x.com/", Remark: "收购X" }],

@@ -1,0 +1,15 @@
+---
+mid: 1598399666
+title: "晴木诗"
+pubDate: "2024-11-04T11:22:14.967Z"
+updatedDate: "2024-11-04T11:22:14.967Z"
+profile:
+  {
+    Nickname: ["晴木诗"],
+  }
+---
+
+关注[晴木诗](https://space.bilibili.com/1598399666)谢谢喵~ 关注[晴木诗](https://space.bilibili.com/1598399666)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/晴木诗/index.md)编辑本文

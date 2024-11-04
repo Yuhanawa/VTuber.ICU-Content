@@ -1,0 +1,15 @@
+---
+mid: 3493090809613248
+title: "早道Soya"
+pubDate: "2024-11-04T11:22:12.257Z"
+updatedDate: "2024-11-04T11:22:12.257Z"
+profile:
+  {
+    Nickname: ["早道Soya"],
+  }
+---
+
+关注[早道Soya](https://space.bilibili.com/3493090809613248)谢谢喵~ 关注[早道Soya](https://space.bilibili.com/3493090809613248)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/早道Soya/index.md)编辑本文

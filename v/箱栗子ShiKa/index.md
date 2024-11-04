@@ -1,0 +1,15 @@
+---
+mid: 3493258795681822
+title: "箱栗子ShiKa"
+pubDate: "2024-11-04T11:22:15.346Z"
+updatedDate: "2024-11-04T11:22:15.346Z"
+profile:
+  {
+    Nickname: ["箱栗子ShiKa"],
+  }
+---
+
+关注[箱栗子ShiKa](https://space.bilibili.com/3493258795681822)谢谢喵~ 关注[箱栗子ShiKa](https://space.bilibili.com/3493258795681822)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/箱栗子ShiKa/index.md)编辑本文

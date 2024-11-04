@@ -1,0 +1,15 @@
+---
+mid: 2061961489
+title: "泰迪熊奴奴丝"
+pubDate: "2024-11-04T11:22:13.712Z"
+updatedDate: "2024-11-04T11:22:13.712Z"
+profile:
+  {
+    Nickname: ["泰迪熊奴奴丝"],
+  }
+---
+
+关注[泰迪熊奴奴丝](https://space.bilibili.com/2061961489)谢谢喵~ 关注[泰迪熊奴奴丝](https://space.bilibili.com/2061961489)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/泰迪熊奴奴丝/index.md)编辑本文

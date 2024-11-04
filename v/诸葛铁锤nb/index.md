@@ -1,0 +1,15 @@
+---
+mid: 3494373668948185
+title: "诸葛铁锤nb"
+pubDate: "2024-11-04T11:26:46.363Z"
+updatedDate: "2024-11-04T11:26:46.363Z"
+profile:
+  {
+    Nickname: ["诸葛铁锤nb"],
+  }
+---
+
+关注[诸葛铁锤nb](https://space.bilibili.com/3494373668948185)谢谢喵~ 关注[诸葛铁锤nb](https://space.bilibili.com/3494373668948185)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/诸葛铁锤nb/index.md)编辑本文

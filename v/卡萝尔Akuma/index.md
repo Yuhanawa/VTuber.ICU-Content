@@ -1,0 +1,15 @@
+---
+mid: 1942864208
+title: "卡萝尔Akuma"
+pubDate: "2024-11-04T11:22:10.431Z"
+updatedDate: "2024-11-04T11:22:10.431Z"
+profile:
+  {
+    Nickname: ["卡萝尔Akuma"],
+  }
+---
+
+关注[卡萝尔Akuma](https://space.bilibili.com/1942864208)谢谢喵~ 关注[卡萝尔Akuma](https://space.bilibili.com/1942864208)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/卡萝尔Akuma/index.md)编辑本文

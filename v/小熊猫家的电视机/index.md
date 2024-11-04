@@ -1,0 +1,15 @@
+---
+mid: 1809637
+title: "小熊猫家的电视机"
+pubDate: "2024-11-04T11:22:09.112Z"
+updatedDate: "2024-11-04T11:22:09.112Z"
+profile:
+  {
+    Nickname: ["小熊猫家的电视机"],
+  }
+---
+
+关注[小熊猫家的电视机](https://space.bilibili.com/1809637)谢谢喵~ 关注[小熊猫家的电视机](https://space.bilibili.com/1809637)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/小熊猫家的电视机/index.md)编辑本文

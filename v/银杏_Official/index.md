@@ -1,0 +1,15 @@
+---
+mid: 679318148
+title: "银杏_Official"
+pubDate: "2024-11-04T11:26:46.586Z"
+updatedDate: "2024-11-04T11:26:46.586Z"
+profile:
+  {
+    Nickname: ["银杏_Official"],
+  }
+---
+
+关注[银杏_Official](https://space.bilibili.com/679318148)谢谢喵~ 关注[银杏_Official](https://space.bilibili.com/679318148)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/银杏_Official/index.md)编辑本文

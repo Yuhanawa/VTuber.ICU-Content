@@ -1,0 +1,15 @@
+---
+mid: 3461582034045213
+title: "宣小纸不怕火"
+pubDate: "2024-11-04T11:22:11.342Z"
+updatedDate: "2024-11-04T11:22:11.342Z"
+profile:
+  {
+    Nickname: ["宣小纸不怕火"],
+  }
+---
+
+关注[宣小纸不怕火](https://space.bilibili.com/3461582034045213)谢谢喵~ 关注[宣小纸不怕火](https://space.bilibili.com/3461582034045213)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/宣小纸不怕火/index.md)编辑本文

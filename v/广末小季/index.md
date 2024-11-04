@@ -1,0 +1,15 @@
+---
+mid: 1965565735
+title: "广末小季"
+pubDate: "2024-11-04T11:22:11.862Z"
+updatedDate: "2024-11-04T11:22:11.862Z"
+profile:
+  {
+    Nickname: ["广末小季"],
+  }
+---
+
+关注[广末小季](https://space.bilibili.com/1965565735)谢谢喵~ 关注[广末小季](https://space.bilibili.com/1965565735)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/广末小季/index.md)编辑本文

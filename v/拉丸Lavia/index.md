@@ -1,0 +1,15 @@
+---
+mid: 28363091
+title: "拉丸Lavia"
+pubDate: "2024-11-04T11:22:12.147Z"
+updatedDate: "2024-11-04T11:22:12.147Z"
+profile:
+  {
+    Nickname: ["拉丸Lavia"],
+  }
+---
+
+关注[拉丸Lavia](https://space.bilibili.com/28363091)谢谢喵~ 关注[拉丸Lavia](https://space.bilibili.com/28363091)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/拉丸Lavia/index.md)编辑本文

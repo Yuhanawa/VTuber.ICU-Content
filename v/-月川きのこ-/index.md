@@ -1,0 +1,15 @@
+---
+mid: 3537108539017927
+title: "-月川きのこ-"
+pubDate: "2024-11-04T11:22:07.870Z"
+updatedDate: "2024-11-04T11:22:07.870Z"
+profile:
+  {
+    Nickname: ["-月川きのこ-"],
+  }
+---
+
+关注[-月川きのこ-](https://space.bilibili.com/3537108539017927)谢谢喵~ 关注[-月川きのこ-](https://space.bilibili.com/3537108539017927)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/-月川きのこ-/index.md)编辑本文

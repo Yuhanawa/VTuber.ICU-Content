@@ -1,0 +1,15 @@
+---
+mid: 13690216
+title: "幼年型kino酱"
+pubDate: "2024-11-04T11:22:11.842Z"
+updatedDate: "2024-11-04T11:22:11.842Z"
+profile:
+  {
+    Nickname: ["幼年型kino酱"],
+  }
+---
+
+关注[幼年型kino酱](https://space.bilibili.com/13690216)谢谢喵~ 关注[幼年型kino酱](https://space.bilibili.com/13690216)谢谢喵~
+
+## 此条目有待补充
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/幼年型kino酱/index.md)编辑本文
