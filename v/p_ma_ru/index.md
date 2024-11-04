@@ -12,4 +12,4 @@ profile:
 关注[p_ma_ru](https://space.bilibili.com/569885690)谢谢喵~ 关注[p_ma_ru](https://space.bilibili.com/569885690)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/p_ma_ru/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/p_ma_ru/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[もこ田めめめofficial](https://space.bilibili.com/441666965)谢谢喵~ 关注[もこ田めめめofficial](https://space.bilibili.com/441666965)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/もこ田めめめofficial/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/もこ田めめめofficial/index.md)编辑本文

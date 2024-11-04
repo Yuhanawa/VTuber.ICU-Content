@@ -12,4 +12,4 @@ profile:
 关注[sakifei](https://space.bilibili.com/2108151986)谢谢喵~ 关注[sakifei](https://space.bilibili.com/2108151986)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/sakifei/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/sakifei/index.md)编辑本文

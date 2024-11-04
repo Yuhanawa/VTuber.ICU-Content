@@ -12,4 +12,4 @@ profile:
 关注[三玖叁叁Miku](https://space.bilibili.com/635124169)谢谢喵~ 关注[三玖叁叁Miku](https://space.bilibili.com/635124169)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/三玖叁叁Miku/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/三玖叁叁Miku/index.md)编辑本文

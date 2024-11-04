@@ -12,4 +12,4 @@ profile:
 关注[夏甜樱暂换斗音波波](https://space.bilibili.com/1634066996)谢谢喵~ 关注[夏甜樱暂换斗音波波](https://space.bilibili.com/1634066996)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/夏甜樱暂换斗音波波/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/夏甜樱暂换斗音波波/index.md)编辑本文

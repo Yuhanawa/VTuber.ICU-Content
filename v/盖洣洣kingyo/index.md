@@ -12,4 +12,4 @@ profile:
 关注[盖洣洣kingyo](https://space.bilibili.com/3494371339012666)谢谢喵~ 关注[盖洣洣kingyo](https://space.bilibili.com/3494371339012666)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/盖洣洣kingyo/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/盖洣洣kingyo/index.md)编辑本文

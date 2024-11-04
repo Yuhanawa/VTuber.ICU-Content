@@ -12,4 +12,4 @@ profile:
 关注[M0bius](https://space.bilibili.com/8370845)谢谢喵~ 关注[M0bius](https://space.bilibili.com/8370845)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/M0bius/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/M0bius/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[云有心boss](https://space.bilibili.com/3493261809289382)谢谢喵~ 关注[云有心boss](https://space.bilibili.com/3493261809289382)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/云有心boss/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/云有心boss/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[摸鱼的肴](https://space.bilibili.com/15178117)谢谢喵~ 关注[摸鱼的肴](https://space.bilibili.com/15178117)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/摸鱼的肴/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/摸鱼的肴/index.md)编辑本文

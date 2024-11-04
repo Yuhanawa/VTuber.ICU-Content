@@ -12,4 +12,4 @@ profile:
 关注[NEQRE-ねこれ](https://space.bilibili.com/1688076885)谢谢喵~ 关注[NEQRE-ねこれ](https://space.bilibili.com/1688076885)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/NEQRE-ねこれ/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/NEQRE-ねこれ/index.md)编辑本文

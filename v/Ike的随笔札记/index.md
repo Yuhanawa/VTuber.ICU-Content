@@ -12,4 +12,4 @@ profile:
 关注[Ike的随笔札记](https://space.bilibili.com/1763663258)谢谢喵~ 关注[Ike的随笔札记](https://space.bilibili.com/1763663258)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/Ike的随笔札记/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/Ike的随笔札记/index.md)编辑本文

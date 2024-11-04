@@ -12,4 +12,4 @@ profile:
 关注[Tacitly_麟犀](https://space.bilibili.com/181559741)谢谢喵~ 关注[Tacitly_麟犀](https://space.bilibili.com/181559741)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/Tacitly_麟犀/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/Tacitly_麟犀/index.md)编辑本文

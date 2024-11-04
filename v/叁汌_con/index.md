@@ -12,4 +12,4 @@ profile:
 关注[叁汌_con](https://space.bilibili.com/513485432)谢谢喵~ 关注[叁汌_con](https://space.bilibili.com/513485432)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/叁汌_con/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/叁汌_con/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[乐骁_Yuusya](https://space.bilibili.com/492257806)谢谢喵~ 关注[乐骁_Yuusya](https://space.bilibili.com/492257806)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/乐骁_Yuusya/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/乐骁_Yuusya/index.md)编辑本文

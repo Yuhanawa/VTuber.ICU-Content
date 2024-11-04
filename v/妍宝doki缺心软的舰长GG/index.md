@@ -12,4 +12,4 @@ profile:
 关注[妍宝doki缺心软的舰长GG](https://space.bilibili.com/3493293390301322)谢谢喵~ 关注[妍宝doki缺心软的舰长GG](https://space.bilibili.com/3493293390301322)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/妍宝doki缺心软的舰长GG/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/妍宝doki缺心软的舰长GG/index.md)编辑本文

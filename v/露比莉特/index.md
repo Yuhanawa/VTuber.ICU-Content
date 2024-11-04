@@ -12,4 +12,4 @@ profile:
 关注[露比莉特](https://space.bilibili.com/500828424)谢谢喵~ 关注[露比莉特](https://space.bilibili.com/500828424)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/露比莉特/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/露比莉特/index.md)编辑本文

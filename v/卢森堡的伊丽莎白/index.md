@@ -12,4 +12,4 @@ profile:
 关注[卢森堡的伊丽莎白](https://space.bilibili.com/13920382)谢谢喵~ 关注[卢森堡的伊丽莎白](https://space.bilibili.com/13920382)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/卢森堡的伊丽莎白/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/卢森堡的伊丽莎白/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[涅萨Nesa](https://space.bilibili.com/497440479)谢谢喵~ 关注[涅萨Nesa](https://space.bilibili.com/497440479)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/涅萨Nesa/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/涅萨Nesa/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[上甘玲Official](https://space.bilibili.com/197)谢谢喵~ 关注[上甘玲Official](https://space.bilibili.com/197)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/上甘玲Official/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/上甘玲Official/index.md)编辑本文

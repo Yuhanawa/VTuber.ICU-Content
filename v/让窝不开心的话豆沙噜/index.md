@@ -12,4 +12,4 @@ profile:
 关注[让窝不开心的话豆沙噜](https://space.bilibili.com/28072199)谢谢喵~ 关注[让窝不开心的话豆沙噜](https://space.bilibili.com/28072199)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/让窝不开心的话豆沙噜/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/让窝不开心的话豆沙噜/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[芝士鱼yuu](https://space.bilibili.com/399111081)谢谢喵~ 关注[芝士鱼yuu](https://space.bilibili.com/399111081)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/芝士鱼yuu/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/芝士鱼yuu/index.md)编辑本文

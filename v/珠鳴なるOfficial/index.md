@@ -12,4 +12,4 @@ profile:
 关注[珠鳴なるOfficial](https://space.bilibili.com/454110795)谢谢喵~ 关注[珠鳴なるOfficial](https://space.bilibili.com/454110795)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/珠鳴なるOfficial/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/珠鳴なるOfficial/index.md)编辑本文

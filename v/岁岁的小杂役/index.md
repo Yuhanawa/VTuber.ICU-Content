@@ -12,4 +12,4 @@ profile:
 关注[岁岁的小杂役](https://space.bilibili.com/1749672325)谢谢喵~ 关注[岁岁的小杂役](https://space.bilibili.com/1749672325)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/岁岁的小杂役/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/岁岁的小杂役/index.md)编辑本文

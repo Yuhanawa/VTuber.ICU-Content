@@ -12,4 +12,4 @@ profile:
 关注[施晴Qing](https://space.bilibili.com/696956915)谢谢喵~ 关注[施晴Qing](https://space.bilibili.com/696956915)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/施晴Qing/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/施晴Qing/index.md)编辑本文

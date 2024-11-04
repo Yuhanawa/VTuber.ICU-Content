@@ -12,4 +12,4 @@ profile:
 关注[Petra的寒霜之海](https://space.bilibili.com/1004638374)谢谢喵~ 关注[Petra的寒霜之海](https://space.bilibili.com/1004638374)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/Petra的寒霜之海/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/Petra的寒霜之海/index.md)编辑本文

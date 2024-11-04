@@ -12,4 +12,4 @@ profile:
 关注[无限殿_Infinite](https://space.bilibili.com/1850939514)谢谢喵~ 关注[无限殿_Infinite](https://space.bilibili.com/1850939514)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/无限殿_Infinite/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/无限殿_Infinite/index.md)编辑本文

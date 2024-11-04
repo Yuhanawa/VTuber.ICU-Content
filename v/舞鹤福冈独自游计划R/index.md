@@ -12,4 +12,4 @@ profile:
 关注[舞鹤福冈独自游计划R](https://space.bilibili.com/143019942)谢谢喵~ 关注[舞鹤福冈独自游计划R](https://space.bilibili.com/143019942)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/舞鹤福冈独自游计划R/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/舞鹤福冈独自游计划R/index.md)编辑本文

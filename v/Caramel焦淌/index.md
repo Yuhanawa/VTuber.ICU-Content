@@ -12,4 +12,4 @@ profile:
 关注[Caramel焦淌](https://space.bilibili.com/11646880)谢谢喵~ 关注[Caramel焦淌](https://space.bilibili.com/11646880)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/Caramel焦淌/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/Caramel焦淌/index.md)编辑本文

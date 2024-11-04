@@ -12,4 +12,4 @@ profile:
 关注[可燃冰块Moe](https://space.bilibili.com/34552854)谢谢喵~ 关注[可燃冰块Moe](https://space.bilibili.com/34552854)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/可燃冰块Moe/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/可燃冰块Moe/index.md)编辑本文

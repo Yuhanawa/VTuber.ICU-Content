@@ -12,4 +12,4 @@ profile:
 关注[瑞贝莉亚_Riya](https://space.bilibili.com/488252627)谢谢喵~ 关注[瑞贝莉亚_Riya](https://space.bilibili.com/488252627)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/瑞贝莉亚_Riya/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/瑞贝莉亚_Riya/index.md)编辑本文

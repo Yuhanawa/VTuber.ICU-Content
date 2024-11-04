@@ -12,4 +12,4 @@ profile:
 关注[塔洛斯Tartarus](https://space.bilibili.com/1257095895)谢谢喵~ 关注[塔洛斯Tartarus](https://space.bilibili.com/1257095895)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/塔洛斯Tartarus/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/塔洛斯Tartarus/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[油叽小麻花_Mahua](https://space.bilibili.com/1747796166)谢谢喵~ 关注[油叽小麻花_Mahua](https://space.bilibili.com/1747796166)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/油叽小麻花_Mahua/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/油叽小麻花_Mahua/index.md)编辑本文

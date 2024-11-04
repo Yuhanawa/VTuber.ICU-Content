@@ -12,4 +12,4 @@ profile:
 关注[小奶欲Nora](https://space.bilibili.com/322428555)谢谢喵~ 关注[小奶欲Nora](https://space.bilibili.com/322428555)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/小奶欲Nora/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/小奶欲Nora/index.md)编辑本文

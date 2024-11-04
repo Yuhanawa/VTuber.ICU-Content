@@ -12,4 +12,4 @@ profile:
 关注[卡卡Kakuma](https://space.bilibili.com/1981393420)谢谢喵~ 关注[卡卡Kakuma](https://space.bilibili.com/1981393420)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/卡卡Kakuma/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/卡卡Kakuma/index.md)编辑本文

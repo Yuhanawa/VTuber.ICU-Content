@@ -12,4 +12,4 @@ profile:
 关注[路理Kuri](https://space.bilibili.com/646432928)谢谢喵~ 关注[路理Kuri](https://space.bilibili.com/646432928)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/路理Kuri/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/路理Kuri/index.md)编辑本文

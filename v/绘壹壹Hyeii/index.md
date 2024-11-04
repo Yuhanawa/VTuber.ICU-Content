@@ -12,4 +12,4 @@ profile:
 关注[绘壹壹Hyeii](https://space.bilibili.com/125694602)谢谢喵~ 关注[绘壹壹Hyeii](https://space.bilibili.com/125694602)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/绘壹壹Hyeii/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/绘壹壹Hyeii/index.md)编辑本文

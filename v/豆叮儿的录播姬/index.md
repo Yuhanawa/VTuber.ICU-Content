@@ -12,4 +12,4 @@ profile:
 关注[豆叮儿的录播姬](https://space.bilibili.com/1339550497)谢谢喵~ 关注[豆叮儿的录播姬](https://space.bilibili.com/1339550497)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/豆叮儿的录播姬/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/豆叮儿的录播姬/index.md)编辑本文

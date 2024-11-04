@@ -12,4 +12,4 @@ profile:
 关注[缇比Tibby](https://space.bilibili.com/1789113291)谢谢喵~ 关注[缇比Tibby](https://space.bilibili.com/1789113291)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/缇比Tibby/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/缇比Tibby/index.md)编辑本文

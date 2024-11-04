@@ -12,4 +12,4 @@ profile:
 关注[呜呦Uyo](https://space.bilibili.com/3493267851184955)谢谢喵~ 关注[呜呦Uyo](https://space.bilibili.com/3493267851184955)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/呜呦Uyo/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/呜呦Uyo/index.md)编辑本文

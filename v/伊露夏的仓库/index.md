@@ -12,4 +12,4 @@ profile:
 关注[伊露夏的仓库](https://space.bilibili.com/18796087)谢谢喵~ 关注[伊露夏的仓库](https://space.bilibili.com/18796087)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/伊露夏的仓库/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/伊露夏的仓库/index.md)编辑本文

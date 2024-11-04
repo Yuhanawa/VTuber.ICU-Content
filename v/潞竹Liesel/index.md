@@ -12,4 +12,4 @@ profile:
 关注[潞竹Liesel](https://space.bilibili.com/3546392779819713)谢谢喵~ 关注[潞竹Liesel](https://space.bilibili.com/3546392779819713)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/潞竹Liesel/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/潞竹Liesel/index.md)编辑本文

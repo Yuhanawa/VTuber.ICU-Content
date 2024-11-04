@@ -12,4 +12,4 @@ profile:
 关注[庞德科洛夫PonderClove](https://space.bilibili.com/1436978042)谢谢喵~ 关注[庞德科洛夫PonderClove](https://space.bilibili.com/1436978042)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/庞德科洛夫PonderClove/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/庞德科洛夫PonderClove/index.md)编辑本文

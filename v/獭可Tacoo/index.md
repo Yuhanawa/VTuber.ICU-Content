@@ -12,4 +12,4 @@ profile:
 关注[獭可Tacoo](https://space.bilibili.com/3546734101792934)谢谢喵~ 关注[獭可Tacoo](https://space.bilibili.com/3546734101792934)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/獭可Tacoo/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/獭可Tacoo/index.md)编辑本文

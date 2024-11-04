@@ -12,4 +12,4 @@ profile:
 关注[暴躁修喵](https://space.bilibili.com/1375563001)谢谢喵~ 关注[暴躁修喵](https://space.bilibili.com/1375563001)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/暴躁修喵/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/暴躁修喵/index.md)编辑本文

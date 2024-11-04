@@ -12,4 +12,4 @@ profile:
 关注[失眠妥芮朵_Toreador](https://space.bilibili.com/3493288646544112)谢谢喵~ 关注[失眠妥芮朵_Toreador](https://space.bilibili.com/3493288646544112)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/失眠妥芮朵_Toreador/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/失眠妥芮朵_Toreador/index.md)编辑本文

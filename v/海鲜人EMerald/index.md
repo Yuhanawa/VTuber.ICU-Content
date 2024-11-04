@@ -12,4 +12,4 @@ profile:
 关注[海鲜人EMerald](https://space.bilibili.com/15095071)谢谢喵~ 关注[海鲜人EMerald](https://space.bilibili.com/15095071)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/海鲜人EMerald/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/海鲜人EMerald/index.md)编辑本文

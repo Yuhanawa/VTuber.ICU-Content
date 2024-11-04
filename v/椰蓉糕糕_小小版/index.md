@@ -12,4 +12,4 @@ profile:
 关注[椰蓉糕糕_小小版](https://space.bilibili.com/3546603795253744)谢谢喵~ 关注[椰蓉糕糕_小小版](https://space.bilibili.com/3546603795253744)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/椰蓉糕糕_小小版/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/椰蓉糕糕_小小版/index.md)编辑本文

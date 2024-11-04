@@ -12,4 +12,4 @@ profile:
 关注[抱抱喵Anana](https://space.bilibili.com/385724604)谢谢喵~ 关注[抱抱喵Anana](https://space.bilibili.com/385724604)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/抱抱喵Anana/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/抱抱喵Anana/index.md)编辑本文

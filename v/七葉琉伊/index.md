@@ -12,4 +12,4 @@ profile:
 关注[七葉琉伊](https://space.bilibili.com/497677999)谢谢喵~ 关注[七葉琉伊](https://space.bilibili.com/497677999)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/七葉琉伊/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/七葉琉伊/index.md)编辑本文

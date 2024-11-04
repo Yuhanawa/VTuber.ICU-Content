@@ -12,4 +12,4 @@ profile:
 关注[冰淇柠QAQ](https://space.bilibili.com/599254182)谢谢喵~ 关注[冰淇柠QAQ](https://space.bilibili.com/599254182)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/冰淇柠QAQ/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/冰淇柠QAQ/index.md)编辑本文

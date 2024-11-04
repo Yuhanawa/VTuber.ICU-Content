@@ -12,4 +12,4 @@ profile:
 关注[枫和fuuwa](https://space.bilibili.com/3493258495789418)谢谢喵~ 关注[枫和fuuwa](https://space.bilibili.com/3493258495789418)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/枫和fuuwa/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/枫和fuuwa/index.md)编辑本文

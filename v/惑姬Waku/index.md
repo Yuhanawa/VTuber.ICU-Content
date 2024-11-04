@@ -12,4 +12,4 @@ profile:
 关注[惑姬Waku](https://space.bilibili.com/472877684)谢谢喵~ 关注[惑姬Waku](https://space.bilibili.com/472877684)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/惑姬Waku/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/惑姬Waku/index.md)编辑本文

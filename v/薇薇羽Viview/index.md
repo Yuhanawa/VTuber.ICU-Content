@@ -12,4 +12,4 @@ profile:
 关注[薇薇羽Viview](https://space.bilibili.com/3461581394413982)谢谢喵~ 关注[薇薇羽Viview](https://space.bilibili.com/3461581394413982)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/薇薇羽Viview/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/薇薇羽Viview/index.md)编辑本文

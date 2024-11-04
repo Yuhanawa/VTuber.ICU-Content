@@ -12,4 +12,4 @@ profile:
 关注[只要吃饭](https://space.bilibili.com/3546378280110877)谢谢喵~ 关注[只要吃饭](https://space.bilibili.com/3546378280110877)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/只要吃饭/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/只要吃饭/index.md)编辑本文

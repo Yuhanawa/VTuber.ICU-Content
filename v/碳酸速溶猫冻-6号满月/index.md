@@ -12,4 +12,4 @@ profile:
 关注[碳酸速溶猫冻-6号满月](https://space.bilibili.com/7685014)谢谢喵~ 关注[碳酸速溶猫冻-6号满月](https://space.bilibili.com/7685014)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/碳酸速溶猫冻-6号满月/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/碳酸速溶猫冻-6号满月/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[汉堡兔hanber](https://space.bilibili.com/3494364410022218)谢谢喵~ 关注[汉堡兔hanber](https://space.bilibili.com/3494364410022218)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/汉堡兔hanber/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/汉堡兔hanber/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[野呂山_13](https://space.bilibili.com/544483620)谢谢喵~ 关注[野呂山_13](https://space.bilibili.com/544483620)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/野呂山_13/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/野呂山_13/index.md)编辑本文

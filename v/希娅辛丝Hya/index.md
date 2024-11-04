@@ -12,4 +12,4 @@ profile:
 关注[希娅辛丝Hya](https://space.bilibili.com/3493136949053562)谢谢喵~ 关注[希娅辛丝Hya](https://space.bilibili.com/3493136949053562)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/希娅辛丝Hya/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/希娅辛丝Hya/index.md)编辑本文

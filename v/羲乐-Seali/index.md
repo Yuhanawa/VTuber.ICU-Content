@@ -12,4 +12,4 @@ profile:
 关注[羲乐-Seali](https://space.bilibili.com/185388428)谢谢喵~ 关注[羲乐-Seali](https://space.bilibili.com/185388428)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/羲乐-Seali/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/羲乐-Seali/index.md)编辑本文

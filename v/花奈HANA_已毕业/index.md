@@ -12,4 +12,4 @@ profile:
 关注[花奈HANA_已毕业](https://space.bilibili.com/1060840106)谢谢喵~ 关注[花奈HANA_已毕业](https://space.bilibili.com/1060840106)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/花奈HANA_已毕业/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/花奈HANA_已毕业/index.md)编辑本文

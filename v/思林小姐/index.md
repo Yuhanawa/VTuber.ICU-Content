@@ -12,4 +12,4 @@ profile:
 关注[思林小姐](https://space.bilibili.com/241649792)谢谢喵~ 关注[思林小姐](https://space.bilibili.com/241649792)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/思林小姐/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/思林小姐/index.md)编辑本文

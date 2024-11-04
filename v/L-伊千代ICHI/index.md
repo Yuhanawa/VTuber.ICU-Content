@@ -12,4 +12,4 @@ profile:
 关注[L-伊千代ICHI](https://space.bilibili.com/10730849)谢谢喵~ 关注[L-伊千代ICHI](https://space.bilibili.com/10730849)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/L-伊千代ICHI/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/L-伊千代ICHI/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[ヒマワリの花言葉は](https://space.bilibili.com/22259121)谢谢喵~ 关注[ヒマワリの花言葉は](https://space.bilibili.com/22259121)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/ヒマワリの花言葉は/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/ヒマワリの花言葉は/index.md)编辑本文

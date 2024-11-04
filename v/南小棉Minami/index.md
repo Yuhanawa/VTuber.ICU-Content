@@ -12,4 +12,4 @@ profile:
 关注[南小棉Minami](https://space.bilibili.com/488744718)谢谢喵~ 关注[南小棉Minami](https://space.bilibili.com/488744718)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/南小棉Minami/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/南小棉Minami/index.md)编辑本文

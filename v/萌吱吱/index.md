@@ -12,4 +12,4 @@ profile:
 关注[萌吱吱](https://space.bilibili.com/630774747)谢谢喵~ 关注[萌吱吱](https://space.bilibili.com/630774747)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/萌吱吱/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/萌吱吱/index.md)编辑本文

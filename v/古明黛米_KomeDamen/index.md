@@ -12,4 +12,4 @@ profile:
 关注[古明黛米_KomeDamen](https://space.bilibili.com/263031381)谢谢喵~ 关注[古明黛米_KomeDamen](https://space.bilibili.com/263031381)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/古明黛米_KomeDamen/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/古明黛米_KomeDamen/index.md)编辑本文

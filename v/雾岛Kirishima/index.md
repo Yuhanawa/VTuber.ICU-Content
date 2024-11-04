@@ -12,4 +12,4 @@ profile:
 关注[雾岛Kirishima](https://space.bilibili.com/395572628)谢谢喵~ 关注[雾岛Kirishima](https://space.bilibili.com/395572628)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/雾岛Kirishima/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/雾岛Kirishima/index.md)编辑本文

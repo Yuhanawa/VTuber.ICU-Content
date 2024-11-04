@@ -12,4 +12,4 @@ profile:
 关注[MZM的秘密古堡](https://space.bilibili.com/432062669)谢谢喵~ 关注[MZM的秘密古堡](https://space.bilibili.com/432062669)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/MZM的秘密古堡/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/MZM的秘密古堡/index.md)编辑本文

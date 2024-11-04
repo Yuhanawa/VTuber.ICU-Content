@@ -12,4 +12,4 @@ profile:
 关注[栀空翼Astra](https://space.bilibili.com/2089622075)谢谢喵~ 关注[栀空翼Astra](https://space.bilibili.com/2089622075)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/栀空翼Astra/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/栀空翼Astra/index.md)编辑本文

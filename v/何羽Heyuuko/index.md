@@ -12,4 +12,4 @@ profile:
 关注[何羽Heyuuko](https://space.bilibili.com/1509526938)谢谢喵~ 关注[何羽Heyuuko](https://space.bilibili.com/1509526938)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/何羽Heyuuko/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/何羽Heyuuko/index.md)编辑本文

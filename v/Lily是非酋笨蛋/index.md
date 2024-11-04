@@ -12,4 +12,4 @@ profile:
 关注[Lily是非酋笨蛋](https://space.bilibili.com/3493120152963117)谢谢喵~ 关注[Lily是非酋笨蛋](https://space.bilibili.com/3493120152963117)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/Lily是非酋笨蛋/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/Lily是非酋笨蛋/index.md)编辑本文

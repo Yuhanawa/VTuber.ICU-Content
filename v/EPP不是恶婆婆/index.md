@@ -12,4 +12,4 @@ profile:
 关注[EPP不是恶婆婆](https://space.bilibili.com/10292573)谢谢喵~ 关注[EPP不是恶婆婆](https://space.bilibili.com/10292573)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/EPP不是恶婆婆/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/EPP不是恶婆婆/index.md)编辑本文

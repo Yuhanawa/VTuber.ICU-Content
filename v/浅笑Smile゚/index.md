@@ -12,4 +12,4 @@ profile:
 关注[浅笑Smile゚](https://space.bilibili.com/3537116971666310)谢谢喵~ 关注[浅笑Smile゚](https://space.bilibili.com/3537116971666310)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/浅笑Smile゚/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/浅笑Smile゚/index.md)编辑本文

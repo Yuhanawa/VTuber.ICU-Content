@@ -12,4 +12,4 @@ profile:
 关注[椰知栗子つ](https://space.bilibili.com/3546716972256015)谢谢喵~ 关注[椰知栗子つ](https://space.bilibili.com/3546716972256015)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/椰知栗子つ/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/椰知栗子つ/index.md)编辑本文

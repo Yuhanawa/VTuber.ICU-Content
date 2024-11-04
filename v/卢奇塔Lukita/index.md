@@ -12,4 +12,4 @@ profile:
 关注[卢奇塔Lukita](https://space.bilibili.com/12597722)谢谢喵~ 关注[卢奇塔Lukita](https://space.bilibili.com/12597722)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/卢奇塔Lukita/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/卢奇塔Lukita/index.md)编辑本文

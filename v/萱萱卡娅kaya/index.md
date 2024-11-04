@@ -12,4 +12,4 @@ profile:
 关注[萱萱卡娅kaya](https://space.bilibili.com/3493126803032322)谢谢喵~ 关注[萱萱卡娅kaya](https://space.bilibili.com/3493126803032322)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/萱萱卡娅kaya/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/萱萱卡娅kaya/index.md)编辑本文

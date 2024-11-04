@@ -12,4 +12,4 @@ profile:
 关注[Niar-2A](https://space.bilibili.com/1230463982)谢谢喵~ 关注[Niar-2A](https://space.bilibili.com/1230463982)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/Niar-2A/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/Niar-2A/index.md)编辑本文

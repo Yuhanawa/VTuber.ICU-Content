@@ -12,4 +12,4 @@ profile:
 关注[ARP_Vtuber](https://space.bilibili.com/3493270965454971)谢谢喵~ 关注[ARP_Vtuber](https://space.bilibili.com/3493270965454971)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/ARP_Vtuber/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/ARP_Vtuber/index.md)编辑本文

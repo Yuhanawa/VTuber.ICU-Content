@@ -12,4 +12,4 @@ profile:
 关注[淺羽Asaha_Mino](https://space.bilibili.com/5421881)谢谢喵~ 关注[淺羽Asaha_Mino](https://space.bilibili.com/5421881)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/淺羽Asaha_Mino/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/淺羽Asaha_Mino/index.md)编辑本文

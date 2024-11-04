@@ -12,4 +12,4 @@ profile:
 关注[已换号请关注潇小雅丶](https://space.bilibili.com/37365137)谢谢喵~ 关注[已换号请关注潇小雅丶](https://space.bilibili.com/37365137)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/已换号请关注潇小雅丶/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/已换号请关注潇小雅丶/index.md)编辑本文

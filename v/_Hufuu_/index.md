@@ -12,4 +12,4 @@ profile:
 关注[_Hufuu_](https://space.bilibili.com/3493278013982909)谢谢喵~ 关注[_Hufuu_](https://space.bilibili.com/3493278013982909)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/_Hufuu_/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/_Hufuu_/index.md)编辑本文

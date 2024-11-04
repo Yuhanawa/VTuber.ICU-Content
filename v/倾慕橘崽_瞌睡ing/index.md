@@ -12,4 +12,4 @@ profile:
 关注[倾慕橘崽_瞌睡ing](https://space.bilibili.com/349789869)谢谢喵~ 关注[倾慕橘崽_瞌睡ing](https://space.bilibili.com/349789869)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/倾慕橘崽_瞌睡ing/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/倾慕橘崽_瞌睡ing/index.md)编辑本文

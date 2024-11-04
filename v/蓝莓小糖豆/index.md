@@ -12,4 +12,4 @@ profile:
 关注[蓝莓小糖豆](https://space.bilibili.com/3461562889144477)谢谢喵~ 关注[蓝莓小糖豆](https://space.bilibili.com/3461562889144477)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/蓝莓小糖豆/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/蓝莓小糖豆/index.md)编辑本文

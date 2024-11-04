@@ -12,4 +12,4 @@ profile:
 关注[伊弥ini](https://space.bilibili.com/3493125020453081)谢谢喵~ 关注[伊弥ini](https://space.bilibili.com/3493125020453081)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/伊弥ini/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/伊弥ini/index.md)编辑本文

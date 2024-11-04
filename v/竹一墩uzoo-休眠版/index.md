@@ -12,4 +12,4 @@ profile:
 关注[竹一墩uzoo-休眠版](https://space.bilibili.com/549288373)谢谢喵~ 关注[竹一墩uzoo-休眠版](https://space.bilibili.com/549288373)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/竹一墩uzoo-休眠版/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/竹一墩uzoo-休眠版/index.md)编辑本文

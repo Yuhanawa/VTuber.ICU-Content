@@ -12,4 +12,4 @@ profile:
 关注[爱嫉妒的罗蒂同学](https://space.bilibili.com/19461407)谢谢喵~ 关注[爱嫉妒的罗蒂同学](https://space.bilibili.com/19461407)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/爱嫉妒的罗蒂同学/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/爱嫉妒的罗蒂同学/index.md)编辑本文

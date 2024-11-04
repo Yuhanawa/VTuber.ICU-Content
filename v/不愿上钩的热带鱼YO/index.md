@@ -12,4 +12,4 @@ profile:
 关注[不愿上钩的热带鱼YO](https://space.bilibili.com/1840042245)谢谢喵~ 关注[不愿上钩的热带鱼YO](https://space.bilibili.com/1840042245)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/不愿上钩的热带鱼YO/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/不愿上钩的热带鱼YO/index.md)编辑本文

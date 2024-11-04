@@ -12,4 +12,4 @@ profile:
 关注[田豆豆_Gloria](https://space.bilibili.com/316976273)谢谢喵~ 关注[田豆豆_Gloria](https://space.bilibili.com/316976273)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/田豆豆_Gloria/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/田豆豆_Gloria/index.md)编辑本文

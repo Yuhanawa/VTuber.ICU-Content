@@ -12,4 +12,4 @@ profile:
 关注[莲汰-AiTeN](https://space.bilibili.com/6365248)谢谢喵~ 关注[莲汰-AiTeN](https://space.bilibili.com/6365248)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/莲汰-AiTeN/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/莲汰-AiTeN/index.md)编辑本文

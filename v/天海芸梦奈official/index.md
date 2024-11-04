@@ -12,4 +12,4 @@ profile:
 关注[天海芸梦奈official](https://space.bilibili.com/309926057)谢谢喵~ 关注[天海芸梦奈official](https://space.bilibili.com/309926057)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/天海芸梦奈official/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/天海芸梦奈official/index.md)编辑本文

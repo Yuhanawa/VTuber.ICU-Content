@@ -12,4 +12,4 @@ profile:
 关注[KXG骨怪](https://space.bilibili.com/349096048)谢谢喵~ 关注[KXG骨怪](https://space.bilibili.com/349096048)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/KXG骨怪/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/KXG骨怪/index.md)编辑本文

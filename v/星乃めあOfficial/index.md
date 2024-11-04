@@ -12,4 +12,4 @@ profile:
 关注[星乃めあOfficial](https://space.bilibili.com/5730)谢谢喵~ 关注[星乃めあOfficial](https://space.bilibili.com/5730)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/星乃めあOfficial/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/星乃めあOfficial/index.md)编辑本文

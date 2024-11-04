@@ -12,4 +12,4 @@ profile:
 关注[牛巻りこofficial](https://space.bilibili.com/455868076)谢谢喵~ 关注[牛巻りこofficial](https://space.bilibili.com/455868076)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/牛巻りこofficial/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/牛巻りこofficial/index.md)编辑本文

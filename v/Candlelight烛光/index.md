@@ -12,4 +12,4 @@ profile:
 关注[Candlelight烛光](https://space.bilibili.com/499499627)谢谢喵~ 关注[Candlelight烛光](https://space.bilibili.com/499499627)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/Candlelight烛光/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/Candlelight烛光/index.md)编辑本文

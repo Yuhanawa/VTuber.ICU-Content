@@ -12,4 +12,4 @@ profile:
 关注[乐艾_Nine](https://space.bilibili.com/3494366972742385)谢谢喵~ 关注[乐艾_Nine](https://space.bilibili.com/3494366972742385)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/乐艾_Nine/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/乐艾_Nine/index.md)编辑本文

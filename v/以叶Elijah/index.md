@@ -12,4 +12,4 @@ profile:
 关注[以叶Elijah](https://space.bilibili.com/3493285326752263)谢谢喵~ 关注[以叶Elijah](https://space.bilibili.com/3493285326752263)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/以叶Elijah/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/以叶Elijah/index.md)编辑本文

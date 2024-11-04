@@ -12,4 +12,4 @@ profile:
 关注[星梦希望_hsymkb](https://space.bilibili.com/10286793)谢谢喵~ 关注[星梦希望_hsymkb](https://space.bilibili.com/10286793)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/星梦希望_hsymkb/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/星梦希望_hsymkb/index.md)编辑本文

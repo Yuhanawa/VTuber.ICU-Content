@@ -12,4 +12,4 @@ profile:
 关注[洛汐亚Lucia](https://space.bilibili.com/22792002)谢谢喵~ 关注[洛汐亚Lucia](https://space.bilibili.com/22792002)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/洛汐亚Lucia/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/洛汐亚Lucia/index.md)编辑本文

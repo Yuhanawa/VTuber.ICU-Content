@@ -12,4 +12,4 @@ profile:
 关注[孔六六-Kong66](https://space.bilibili.com/3494353251076304)谢谢喵~ 关注[孔六六-Kong66](https://space.bilibili.com/3494353251076304)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/孔六六-Kong66/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/孔六六-Kong66/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[安纪亚](https://space.bilibili.com/1768094747)谢谢喵~ 关注[安纪亚](https://space.bilibili.com/1768094747)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/安纪亚/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/安纪亚/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[下雪天lovelong](https://space.bilibili.com/3494354205280936)谢谢喵~ 关注[下雪天lovelong](https://space.bilibili.com/3494354205280936)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/下雪天lovelong/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/下雪天lovelong/index.md)编辑本文

@@ -12,4 +12,4 @@ profile:
 关注[栗川堇Sumire](https://space.bilibili.com/3494364242249735)谢谢喵~ 关注[栗川堇Sumire](https://space.bilibili.com/3494364242249735)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/栗川堇Sumire/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/栗川堇Sumire/index.md)编辑本文

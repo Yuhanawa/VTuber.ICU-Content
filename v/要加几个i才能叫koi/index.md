@@ -12,4 +12,4 @@ profile:
 关注[要加几个i才能叫koi](https://space.bilibili.com/23200613)谢谢喵~ 关注[要加几个i才能叫koi](https://space.bilibili.com/23200613)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/要加几个i才能叫koi/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/要加几个i才能叫koi/index.md)编辑本文

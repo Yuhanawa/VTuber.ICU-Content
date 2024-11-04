@@ -12,4 +12,4 @@ profile:
 关注[红豆吐司加狗饼干](https://space.bilibili.com/360293428)谢谢喵~ 关注[红豆吐司加狗饼干](https://space.bilibili.com/360293428)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/红豆吐司加狗饼干/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/红豆吐司加狗饼干/index.md)编辑本文

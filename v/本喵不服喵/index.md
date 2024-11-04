@@ -12,4 +12,4 @@ profile:
 关注[本喵不服喵](https://space.bilibili.com/3493257195555106)谢谢喵~ 关注[本喵不服喵](https://space.bilibili.com/3493257195555106)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/本喵不服喵/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/本喵不服喵/index.md)编辑本文

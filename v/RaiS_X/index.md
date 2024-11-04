@@ -12,4 +12,4 @@ profile:
 关注[RaiS_X](https://space.bilibili.com/59672668)谢谢喵~ 关注[RaiS_X](https://space.bilibili.com/59672668)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/RaiS_X/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/RaiS_X/index.md)编辑本文

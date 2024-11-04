@@ -12,4 +12,4 @@ profile:
 关注[Afaer-吕和今Asota](https://space.bilibili.com/3461569182698067)谢谢喵~ 关注[Afaer-吕和今Asota](https://space.bilibili.com/3461569182698067)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/Afaer-吕和今Asota/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/Afaer-吕和今Asota/index.md)编辑本文

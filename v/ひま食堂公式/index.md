@@ -12,4 +12,4 @@ profile:
 关注[ひま食堂公式](https://space.bilibili.com/392798297)谢谢喵~ 关注[ひま食堂公式](https://space.bilibili.com/392798297)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/ひま食堂公式/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/ひま食堂公式/index.md)编辑本文

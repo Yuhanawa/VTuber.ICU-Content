@@ -12,4 +12,4 @@ profile:
 关注[柯莉安Maku](https://space.bilibili.com/3537106913724862)谢谢喵~ 关注[柯莉安Maku](https://space.bilibili.com/3537106913724862)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/柯莉安Maku/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/柯莉安Maku/index.md)编辑本文

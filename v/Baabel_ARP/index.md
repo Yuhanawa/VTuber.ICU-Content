@@ -12,4 +12,4 @@ profile:
 关注[Baabel_ARP](https://space.bilibili.com/3493281231014411)谢谢喵~ 关注[Baabel_ARP](https://space.bilibili.com/3493281231014411)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/Baabel_ARP/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/Baabel_ARP/index.md)编辑本文

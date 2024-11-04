@@ -12,4 +12,4 @@ profile:
 关注[时梦_Yume](https://space.bilibili.com/673893474)谢谢喵~ 关注[时梦_Yume](https://space.bilibili.com/673893474)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/时梦_Yume/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/时梦_Yume/index.md)编辑本文

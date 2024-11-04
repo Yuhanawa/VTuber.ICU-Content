@@ -12,4 +12,4 @@ profile:
 关注[Yuka碳](https://space.bilibili.com/1753451)谢谢喵~ 关注[Yuka碳](https://space.bilibili.com/1753451)谢谢喵~
 
 ## 此条目有待补充
-你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU/edit/master/src/content/v/Yuka碳/index.md)编辑本文
+你可以在[这里](https://github.com/Yuhanawa/VTuber.ICU-Content/edit/master/v/Yuka碳/index.md)编辑本文
